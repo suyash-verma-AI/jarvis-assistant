@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+temp.mp3
+.env
+.vscode/
