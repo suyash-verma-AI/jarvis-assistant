@@ -34,5 +34,8 @@ It can listen, respond, open apps/websites, fetch real-time info, and even crack
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/jarvis-assistant.git
-   cd jarvis-assistant
+   git clone https://github.com/suyash-verma-AI/jarvis-assistant
+   pip install -r requirements.txt
+python main.py
+
+
